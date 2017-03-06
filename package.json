@@ -1,0 +1,23 @@
+{
+  "name": "hapi-multi-mongoose",
+  "version": "1.0.0",
+  "description": "Hapi plugin for muliple mongoose connections",
+  "main": "index.js",
+  "repository": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["hapi", "mongoose"],
+  "author": "Nikita Shatunov",
+  "license": "MIT",
+  "dependencies": {
+    "hoek": "^4.1.0",
+    "joi": "^10.2.2",
+    "mongoose": "^4.8.6"
+  },
+  "devDependencies": {
+    "eslint": "^3.14.0",
+    "eslint-config-hapi": "^10.0.0",
+    "eslint-plugin-hapi": "^4.0.0"
+  }
+}
